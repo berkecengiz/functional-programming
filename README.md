@@ -1,3 +1,5 @@
 # Scala
 
-Introduction to functional programming using Scala language. Includes assigments from university project.
+Introduction to functional programming using Scala language.
+
+All assigments been completed as part of university course.
